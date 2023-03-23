@@ -63,3 +63,12 @@ Total: 200 Rubel
 # Day 2
 
 ## Notes
+
+
+
+
+
+
+
+
+
