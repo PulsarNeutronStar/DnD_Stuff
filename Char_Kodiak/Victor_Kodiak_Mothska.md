@@ -7,9 +7,9 @@ Chaotic Good    |    1    | Human | Ranger
 
 Day | XP | History
 ---:|----|:-------
-||**0.5** | **Total Expierence**
+||**1** | **Total Expierence**
 1|    0.5 | For Killing the Group of Boars 
-2|    tba | For Helping with the Bandit Hideout that terrorized Rookie Village
+2|    0.5 | For Helping with the Bandit Hideout that terrorized Rookie Village
 
 ### Langauges
 `Common (Russian/Ukraine)`, `Georgian`, `Siberian Dialects`
