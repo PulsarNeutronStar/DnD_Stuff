@@ -63,4 +63,4 @@ Within **Maximum Range**, your Hit Chance will be defined by
 ## Others
 ### Assault Rifles 
 General: Disadvantage at PointBlank Range(5ft)
- 
+
