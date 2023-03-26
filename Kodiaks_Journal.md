@@ -29,29 +29,39 @@ Its been a while since I have been hunting with my grandfather back home, but th
 
 What to aim for? Point the rifle towards its shoulder and try to pierce its thick, scared leathery skin to take a shot at the heart? No, that skin looks way to tough and even if I can penetrate its leather, will it hit the heart, if that foul beast still has one and take it down? - Head it is. I empty my lungs and hold my breath, I pull the trigger. 
 
-A loud bang echoes through the forest, other animals in the distance can be heard. I lower the rifle and look at my target. Where one of his eyes used to be, now,  there is a gushing bulletwound. Its tumbling, its weak, but still alive. And Angry. With supprise I prepare to reload the rifle, but from the side of my view, I notice Alexej, with his Machete in his Hand, run towards that boar. 
+A loud bang echoes through the forest, other animals in the distance can be heard. I lower the rifle and look at my target. Where one of his eyes used to be, now,  there is a gushing bulletwound. Its tumbling, its squeling in pain. Its weak, but still alive and very Angry. With supprise about the resiliency of this monster, I prepare to reload the rifle, but from the side of my view, I notice Alexej, with his Machete in his Hand, run towards that boar.
 
-From here, everything happend really fast. More boars show up. Even some Dogs. Attracted by the gunfire. People start shooting and moving closer. Then, suddenly from our front right, we hear the sound of a loud and violent, electrical discharge! To our luck, it seems like one of those blind dog, distracted by the smell of blood, ran straight into said anomaly. One problem less, i think, while pulling out my pistol and moving out of cover, towards the animals that are coming towards us. But just a mere moment later, it seems like our luck has been depleted.
+Another loud bang. The flesh falls to the ground, one last shivering but then, scilence for brief moment. The Sargent stands to my left with his pistol in his hand still aiming at the beast.
 
-"What the fuck is that?!?" The earth starts to shake and in the distance, a huge, wild boar appears and stampedes down the pathway towards us. With supprise i move to the side by some bushes. I feels some heat nearby, but didnt pay much attention at that moment as there was eno, to get out of its way but Alexej wasnt so lucky! The mega boar charged at him and he flew through the air and hit the ground where he was standing. As the huge beast was about to continue its mauling of Alexej, Zarkk who was on the other side next to Alexej took a shot at beast, which in turn, angrily, focused its attention towards Zarkk, but it seemed he had a plan! Before the spawn of hell was able to charge at him, Zarkk already ran towards the sparkling anomaly which took down the blind dog earlier - it seems like he wants to taunt the beast into a trap! Smart thinking, but to no avail.
+From here, everything happend really fast. More flesh and boars show up. Even some Dogs - attracted by the gunfire. People start shooting and moving closer. Then, suddenly from our front right, we hear the sound of a loud and violent, electrical discharge! To our luck, it seems like one of those blind dog, distracted by the smell of blood, ran straight into said anomaly. One problem less, i think, while pulling out my pistol and moving out of cover, towards the animals that are coming towards us. But just a mere moment later, it seems like our luck has been depleted.
 
-I took a shot at another boar which was threatening Alexej who was knocked out the ground, not able to defend himself. The boar goes down, as it was already weakend from the firefight before. But to my supprise, the gigantic beast, instead of charging at zarkk, now turned its ugly face towards me and locks its bloodthristy stare on me. "ah fuck". 
+"What... is this?!?" The earth started to shake and in the distance, a huge, gigantic, wild boar appears. His hide is covered with many scares and even some bulletwounds, but all of them are old and healed. Its stampeding down the pathway towards us. Filled with a mix of fear and supprise, I move to the side, out of its way, towards some bushes behind a rock, near some trees. I feels some heat nearby, which i didnt pay much attention towards as i was busy saving my self becoming boarfeed. I was lucky enough to react in time to avoid certain pain, but not for Alexej! The mega boar charged at him whacked him with his huge head. Alexej flew through the air and hit the ground where he was standing. As the huge beast was about to continue its mauling of Alexej, another even louder bang! Zarkk who was on the other side of the boar, near to Alexej, stand there, with his sawn-off shotgun in his hands, both barrels still smoking. 
 
-As I stumbled away, seeking distance from the beast, another loud noise behind me - like a flame thrower and a loud painful squeal. I care not to turn around and take my legs in my hands instead and keep booking it towards a big tree. While running, i have the slight smell of Bacon in my nose, but due to the circumstances, i didnt further follow up on said thought, instead i hide behind the tree and look for the beast.
+With an angry, deeply growling squeal, the beast turned towards Zarkk, but it seems that he anticipated that! Before the spawn of hell was able to charge at him, Zarkk already started sprinting, away from the beast and towards the behind of the sparkling anomaly, which took down the blind dog earlier! What a genious! He wants to taunt the beast into a trap! Smart thinking, but to no avail.
 
-Scorched by fire, hairs still buring, the beast is even more enraged at me and stampedes directly at me, but it seems to be somewhat weakend now. I take my chances and drop my pistol and reach for my combat knife. The moment it reaches me, i keep the tree between us while trying to take a slash at it. I was able to hit it, but its skin, charred and thick, seemed unimpressed by my attempt. "Fuck that!" and i ran towards the rest of the group, who, by now, seemed to have dealt with the rest of the rot and finally point their attention towards my struggle with the boarus giganticus. Meichler vaults towards the boar with his knife, it seems he has a better swing at it and actually hurts it and shortly after, the beast is finally dead.
+While all that took place, I pulled my pistol as there was a further, be it smaller, boar, that took interest in Alexej who was defenseless on the floor, trying to crawl away from the situation. I took a shot. The boar goes down, as it was already weakend from the firefight before. But to my supprise, the gigantic beast, instead of charging at zarkk, now turned its ugly face towards me and locks its bloodthristy stare on me. The Sargent from somewhere behind me yells "Get the fuck out of there"! The only thought that I could hold in my mind at that point: "...ah fuck" 
 
-Out of breath i look around me while 
+I turn around and stumble away, seeking distance from the beast, another loud noise behind me - like a flame thrower and a loud painful squeal. I care not to turn and see, but instead take my legs in my hands and keep running it towards a big tree. While running, I have the slight smell of Bacon in my nose, but due to the circumstances, i didnt further follow up on said thought, instead I hide behind the tree and look for the beast. In the background I can hear the sargent yell "Zarkk, help Victor! I take care of Alexej!".
 
-ToDo:
-- Sasha chanting about the bet
-- Sasha impressed with out curoage to shiv a boar.
+Scorched by fire, hairs still buring, the beast is even more enraged at me and stampedes directly at me, but it seems to be somewhat weakend now. I take my chances and drop my pistol and reach for my combat knife. The moment it reaches me, i keep the tree between us while trying to take a slash at it. I was able to hit it, but its skin, charred and thick, seemed unimpressed by my attempt. "Fuck that!" and i ran towards the rest of the group, who, by now, seemed to have dealt with the rest of the rot and finally point their attention towards my struggle with the boarus giganticus. The private called Alexander vaults towards the boar with his knife, it seems he had a better swing at it and managed to actually pierce the skin of the boar. A lot of blood is gushing from the wound caused by the Privates Knife - an Artery must have been cut by that! It stumbles, growles and squaks, its getting weaker and weaker it falls. The beast is finally dead. 
 
+## Aftermath
 
+I hold my breath, look around, carefully listening to the environment, but the only sound we hear is the wind, who is rustling of the leaves of the trees... It seems like the fight is over. It takes a minute or two for everyone else to realise the same... slowly, one by one, the rest of the party eases up, getting out of their combat stance. "Lets cut them up and see what we can sell!" I hear Zarkks voice yell to the party. 
 
+Quickly, before all the beasts are butchered up, i take my small camera and document some of those beasts. I approach the carcass of the Big Boar, which now lies in a puddle of his own blood with burned skin and a huge gunshot wound on its side. Next to it is Zarkk with his Knife in his hand, woundering how to even start cutting up a beast like that. He notices me and says "Hey, can you take a picture of it with me?". I agree and with a smile on his face, he pulls out his shotgun and props up a pose, with one foot on the beast. After i took the photo, he promises me some vodka, even raki as a thanks in return with a smile on his face.
+
+Furthermore, I managed to take a picture of the Blind Dog, brought down by the  Sparkling anomaly. Its skin is covered in burnmarks caused by the heat of the electricity going through the deady body of the dog. With every pulse of the anomaly, the legs of dogs are slightly twitching. Slight smoke coming from its eyes and ears... "What a cuel way to go out" I think " but its better of dead then alive, thats for sure..".
+
+I take another photo from the flesh that I shot. Two gunshot wounds. One in the face, where its eye used to be, the other on its side. Not many thoughts came to my mind here, as I was simply stunned by the creatures existance and appreance as a whole.
+
+For the final photo, I step back and use my Medium Format Camera. I choose to frame the overall scene, the sun is low, the day is nearing its end. A cold breese is felt inbetween the trees. Sun rays can be seen breaching the cealing of leaves, siluetting the party at their work against the dark background of the forest. People are busy, cutting away at the beasts to harvest their hoofs, eyes, pelts and whatnot. Hot, white steam raises from where their skin has been pierced and their flesh is touching the air. Their remaining heat escaping their bodies. I take the photo and put away the camera, for a moment i hold and breath, observe the stage in front of me as everyone is cutting away quietly. 
+
+Sasha, the Stalker that was tasked to watch over us walks up to me and joins me in watching the scene. "You know, I am quite impressed with what you did here, you know.. Knife Fighting a Boar... Not sure if thats stupidity or curage but it seems like Wolf was right to believe in you lot."
+
+I muster the stalker next to me, constantly wearing the gasmask. With slight scepticism, I nod and walk away, reaching for my knife and joining the groups effort...
 
 ### Notes
-
 Quest Rewards:
 +0.5 XP
 Cheap and Basic anomaly detector
@@ -62,13 +72,22 @@ Total: 200 Rubel
 
 # Day 2
 
-## Notes
+## The Evening before
+
+Once our party returned to Rookie Village, we turned to the trader to sell our haul. Each of us recieved their share of 100 Ruble from the return. Wolf came to us, as we've been at the trader. He says "Seems like you did well on your first little adventure. Sasha told me about the huge boar and the fact that it died to a final stroke with a knife! Not bad! As promised, you can ether have 1000 Rubles split between you guys, or, everyone of you gets one of those simple Anomaly Detectors. They're might not be state of the art, but they surely will warn you when you're about to step into something bad!". Without much hesitation, the group quickly decided for the obvious. 1.000 Rubles might seem like a lot, but between us, its maybe a bottle of wodka each, the detectors on the other hand, will us actually give us a chance of survival. Wolf nods and points towards the trader and gestures him, who in turn reaches for a shabby cartboard box beneath the counter and hands out a detector to everyone. You can see that those are hand-made, soldered together her in the zone, but it seems that they are doing their job so you dont see a reason to complain. I take my detector and store it in a pouch of my belt, so that i can always hear when it starts detecting something dangerous.
+
+After we finish our dealing with the trader, wolf invited us to join at the campfire. Once we sat down wolf looked at us and said "Okey guys, you did will for your first fight. I want to offer you another opportunity, but be warned, this will be a difficult fight and some of you might even die. You dont have to, no one is forcing you, but we would apprechiate the support." Wolf takes a short break, looks at us, and as no one interjects he continues "There is a Yard not to far away from here, some bandits made it their camp and since then, they've been quite a pain in the ass for us here at the Village. They keep assaulting our patrols and kill some of the newcomers that wander around here.
+
+Be warned though, they have guns, just like us - this will be a real fire fight. If you're unlucky, a single bullet can kill you. But keep in mind, we will have 
 
 
+TBA.
 
 
+I sit next to Zarkk and we both had a couple of glasses of wodka. I told him, that we should keep the raki for a later occation, to keep our heads fresh for the upcoming fight and stick to simple, clear wodka.
 
+Soon enough the others joined in, happy that most of us came out of this fight mostly unhurt.
 
+Afterwards he invites us to join at the campfire
 
-
-
+As our party we sit at the campfire in Rookie Village with W
