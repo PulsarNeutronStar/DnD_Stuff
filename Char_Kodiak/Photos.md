@@ -15,8 +15,8 @@
 
 1. Day 1: Photo of everyone in the group walking in front of me, away along a path. its afternoon, the sun is somewhat low.
 2. Day 1: Picture of Zarkk standing on the Big Boar with his shotgun in his hand.
-3. Day 1: Documentary Photo: Big Boar, Dead
-4. Day 1: Documentary Photo: Blind Dog, Dead
+3. Day 1: Documentary Photo: The flesh with a missing eye, Dead.
+4. Day 1: Documentary Photo: Blind Dog in the sparling anomaly, covered in burnmarks caused by the heat of electricity. Dead
 5. Day 1: Snapshot of the Older Stalker when he walked away from the basement, he turned to us when i snapped the photo from underneath my arm while I looked over my shoulder towards him. I could see his beard, he had an eyepatch, quite some scars, good equipment, some armor beneath his long trenchcoat.  
 6. Day 2: Photo of the Aftermath Bandit Camp - Remains of the guy whose grenade I hit 
 7. Day 2: Photo of the Aftermath Bandit Camp - Overview of the inside of the Yard
