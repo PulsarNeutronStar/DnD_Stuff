@@ -67,8 +67,7 @@ I pick up vehicle papers and property papers
 
 
 ###
-Grey shield, cracked skull.
-1x armband.
+1x armband: Grey shield, cracked skull.
 
 
 
