@@ -2,7 +2,7 @@
 
 ## Rookie Village, before the Hunt for the Boar
 We talked to Wolf today. He keeps Rookie Village protected. Seems to a good guy.
-They mentioned sth about Factions. *Of course there is a gang war in the zone...* 
+They mentioned something about Factions. *Of course there is a gang war in the zone...* 
 
 Upon my Question what Factions are active within the zone he started to count them on his fingers:
 He mentioned `Duty`, `Freedom`, `the Military`, `the Ecologists`, some `Fanatics`, but another Group that starts with `K? C?` seems like he didnt wanted to talk about them further... He is well equipped. *Curious...*
@@ -61,6 +61,7 @@ Sasha, the Stalker that was tasked to watch over us walks up to me and joins me 
 
 I muster the stalker next to me, constantly wearing the gasmask. With slight scepticism, I nod and walk away, reaching for my knife to join the groups effort...
 
+
 ### Notes
 Quest Rewards:
 +0.5 XP
@@ -81,10 +82,64 @@ After we finish our dealing with the trader, wolf invited us to join at the camp
 "So, are you in?" Wolf asks. A few moments of silence, then Kodiak speaks up: "So those Bandits, if we cause truble with them, they're just scum of the zone, no one will care about us taking a couple of them out, right?" Wolf smurks. "Hah, if you say scum, you talk about the Renegades! They are even worse then the Brotherhood. But to be honest, the Brotherhood arent much better. But they kinda stick together. Word might go around. But they caused us a alot of trouble here in Rookie Village, thats why we kick them back to garbage!"
 A few moments pass and Kodiak looks into the group. No one seems to show any signs of reservation, then Kodiak speaks up again: "Sure, I dont see any reason why this would be a disadvantage for us! Dangerous? Sure, but I'll bet there will be more dangerous things ahead of us and it wouldnt hurt to gain some expierence, get familiar with the bad actors in this place here!". 
 
-Wolf nods with a subtle  smile. "Happy to hear! We'll be attacking tomorrow in the afternoon, at that time, they are usually all together in the yard, but more on that later! I have to do some business. We see us tomorrow!" Wolf stands up and leaves the campfire, heading towards on of the basements of the village. A few minutes pass, then Zarkk reaches for this backpack and pulls out a bottle of wodka and with a smile offers it to me, as i sit next to him. With a wide smirk, pull out my metal cup from my backpack and pore me a shot while Zarkk pulls out his cup and i proceed to pore into his cup and offer the bottle to the sargent next to me. ... The bottle makes its round and we finally ease up and start to chatter, telling each other about our experience from the recent Hunt and some time passes...
+Wolf nods with a subtle  smile. "Happy to hear! We'll be attacking tomorrow in the morning, at that time, the bandits are usually still asleep and all together in the yard, but more on that later! I have to do some preparations. I will meet you tomorrow!" Wolf stands up and leaves the campfire, heading towards on of the basements of the village. A few minutes pass, then Zarkk reaches for this backpack and pulls out a bottle of wodka and with a grin on his face, he offers it to me, as I sit next to him. With a wide smirk, pull out my metal cup from my backpack and pore me a shot while Zarkk pulls out his cup and i proceed to pore into his cup and offer the bottle to the sargent next to me. ... The bottle makes its round and we finally ease up and start to chatter, telling each other about our experience from the recent Hunt and some time passes...
 
-"Kodiak, that was decent shot!" The Sargent said towards me. I nod with a smile "Thank you!" as I notice some voices from the entrance of the village and look up from the campfire towards the entrance. I can hear the guards greeting a new arrival - by the reaction of the guards, he seems to be no stranger to the people here. When he walked by the campfire, I could muster his appreance. Long trenchcoat, some armored vest beneath. He wears an eyepatch, covering one of his. Did he loose it? A recent wound? The patch shows signs of age. Maybe even as old as him. His skin, his beard speak for his age, but he seems well equipped, far beyond our lousy equipment. The arrivial of such an unusual figure at the camp attractes my attention and after noticing that he is walking towards the basement where Wolf disappeared earlier, my mind was set. With a quite voice I say to Zarkk and Sarge "Excuse me for a moment, I'll be back in a minute" and stand up and with cautious steps I walk over to the basement. Hiding near the entrance, I lean towards the voices I can hear. I try to catch on the conversaion that takes place inside the basement as I can hear an argument between Wolf and, presumably, the Old Man. I can only make our the strangers words, as he speaks with little regard for prying ears while Wolfs tries to remain subtle.
+"Kodiak, that was decent shot!" The Sargent said towards me. I nod with a humble smile "Thanks!" as I notice some voices from the entrance of the village and look up from the campfire towards the entrance. I can hear the guards greeting a new arrival - by the reaction of the guards, he seems to be no stranger to the people here. When he walked by the campfire, I could muster his appreance. Long trenchcoat, some armored vest beneath. He wears an eyepatch, covering one of his. Did he loose it? A recent wound? The patch shows signs of age. Maybe even as old as him. His skin, his beard speak for his age, but he seems well equipped, far beyond our lousy equipment. The arrivial of such an unusual figure at the camp attractes my attention and after noticing that he is walking towards the basement where Wolf disappeared earlier, my mind was set. With a quite voice I say to Zarkk and Sarge "Excuse me for a moment, I'll be back in a minute" and stand up and with cautious steps I walk over to the basement. Hiding near the entrance, I lean towards the voices I can hear. I try to catch on the conversaion that takes place inside the basement as I can hear an argument between Wolf and, presumably, the Old Man. I can only make our the strangers words, as he speaks with little regard for prying ears while Wolfs tries to remain subtle.
 
-"They are just stories." ... "Be careful, what paradise you wish for, what hope you give to other stalkers."... "...in the search they just make it real". Another snippet evolves around sth about "the men in white". Focused on the conversation, I notice someone coming from the direction I came from I turn around to see who is coming. 
+"They are just stories." ... "Be careful, what paradise you wish for, what hope you give to other stalkers."... "...in the search they just make it real". Another snippet evolves around something about "the men in white". Focused on the conversation, I notice someone coming from the direction I came from I turn around to see who is coming. 
 
-"Hey, what are you doing?" Private Alexander calls to me with a slight mumble in his voice. It seems that he had a little too much vodka already. His steps arent the straightest anymore as he steps towards me. Quickly, I raise my finger to my lips to sign him to be quite "Shssh". In that moment he his leg trips over the surfaced roof of nearby tree and falls face first towards the floor. An audible thud can be heared on impact and I quickly step over to him 
+"Hey, what are you doing?" Private Alexander calls to me with a slight mumble in his voice. It seems that he had a little too much vodka already. His steps arent the straightest anymore as he steps towards me. Quickly, I raise my finger to my lips to sign him to be quite "Shssh". In that moment he his leg trips over the surfaced roof of nearby tree and falls face first towards the floor. An audible thud can be heared on impact. The voices from the Basement quiet down, chairs are being moverd. I quickly step over to the Private and say loudly with a sigh "Had to much to drink, ey?" as I help him up "Here, let me help you up." With one arm I hold the Private, who is still a bit dazed from the fall, with the other, I reach for my small Camera, and hold it over under my arm, pointing towards the entrance of the basement. "Dont get lost, or a mutant will bite of your parts!" I look over my shoulder and see the old Stalker who is walking away from the basement, looking over his shoulder towards us. I press the trigger of the camera, a sublte click is to be heard, but I speak up, to overtone the sound, towards the private "Dont get lost, or a mutant will bite of your parts!" as I walk him back to the campfire...
+
+## The Next Morning
+
+During the next morning most of us woke up when the sun came out. A slight headache acompanied my morning but after washing my face and brushing my teeth with some bottled water I purchased from the trader the evening before and drinking the rest, it was mostly gone. 
+
+I start preparing my belonging and packing up my sleeping spot. Afterwards I join the rest of my party outside by the campfire and join them in their preparations. I start cleaning and preparing the hunting rifle, checking my Makarov magazines and put my rounds for the rifle in my belt pouch so I can easily reach them mid fight. Most of us are here, just the Private is still missing. "Hey Sarge, have you seen the Private yet?" "No, he drank way to much yesterday. I hope he doesnt get us killed." He stated with slight frustration.
+
+Wolf was already up and busy and instructing people for the raid today. "Sasha, I need you to go and meetup with the watchpost near the bandit camp. Meet with the new comers around 9am west of the yard. I will take some of my guys here and get in position to assault from the other side. We will move in the moment we hear gunfire."
+
+Shortly afterwards, Wolf approaches our group with another stranger next to him. She isnt very tall, quite the oposite. She seems a bit lost, not really knowing what is going on. She seems to be in her early 20s, rather small around 5" with a small frame, auburn red hair knotted in a bun and hazelnut brown eyes.
+
+"This is Aris, another newcomer to the camp, I want her to tag along with you." We nod. "Okey guys, here is the plan... " as Wolf continues instruct us on the plan. "... You'll be there first, be careful and scout out the place. My team will attack from the other side once we hear gunfire. They wont expect us, as they're usually still hung over at this time of the day, so lets take our chances and do it right! Lets move out in 10 Minutes" We nod. 
+
+"Alright, where is this slacker?" The Sarge steps away from the group with his metal cup in his hand. He fills it with wather from some old rain barrel and steps towards another house on the other side of the street. We can hear a supprised scream as we see the Sargent through the broken window, throwing the water on the floor infront of him. "Wake up! We're leaving 5 Minutes! Get your shit together or we'll leave you behind!"
+
+
+## The Yard
+
+We arrived near the yard rather soon. Its about 10 minutes before 9. We observe the surroundings froma hidden spot nearby and we can see guys guarding the entrance, a fence around the compound and a couple of buildings inside. Besides the two guards we dont see any movement but we can see some smoke coming up from the chimneys. Seams like someone's home.
+There is a hole in the fence at the right corner of the yard. We discuss our approach. The Sargent and me tent towards the entrance, to take care of the guards there once the fighting starts and to cause a distraction, the rest will try to sneak in through the hole in the fence to the right. 5 Minutes to 9. Its time for us to move. The sarge and me sneak up towards the road. I position myself right of the road, the sarge crosses and hides behind a tree to the left and we wait.
+
+I take the opportunity to take a quick picture and pull out my large camera. I frame the photograph with the Sargent as he carefully peakes from the cover of a tree towards the entrance of the Bandit Camp. In the Background, the road that leads towards the gate of the yard and some Bandits behind some fallen treetrunks, guarding the gate.
+
+The left guard holds a simple Pistol, while the right one has a sawn-off shotgun. I pack up my camera and get in ready position. Looking towards the Sarge, i notice him watching towards the guards, then looking towards me. I wave to him, point at my chest, then to the guards, then to the right. He nods and I get aim down the sight.
+
+Now its time to wait. Sasha's group should be here now any moment but so far nothing. I hope they didnt got caught or somehow delayed. It would be nice to maintain the advantage of supprise. A few moments pass and then we hear a "Thud" from the right, where the whole in the fence is. "Fuck, What was that?" As we look towards the source. It through some bushes and branches, i can see the Private on the Floor, it seems like the stumbled and fell... *again*. "Shit, we should have left him in the camp, i thought". 
+
+The guards look raise their head, looking towards the source of disturbance, but it seems the Private remained hidden form their sight. They look at each other and then, the one with the shotgun starts walking towards the the right to investigate the cause.
+
+With slight panic in my eyes I look towards Sargent, who just pulled out his pistol and is readying his stance. He looks towards the guard, then to me, he nods and I return the nod. "Here goes nothing" as I breath out to hold my breath and slowly pull the trigger.
+
+A loud bang, the guard is hit in the side of his Torso. He looks bad, but he is still standing. He musters his remaining strengh and vaults into cover to a nearby tree. Before the other guy could react, the Sarge raises from his cover and puts another bullet to the wounded guard who drops drops down to the ground.
+
+The remaining guard, supprised and shocked, rushes to the nearest cover. In the distance, on the far side of the bandit camp we can hear another firefight to erupt - seems like Wolfs team is reliable and entered the fight!
+
+As I reload my rifle, I observe the firefight between the sarge and the secound guard, put the bullet in the barrel and close the weapon. I ready myself and push the buttstock in my shoulder to take a shot at the remaining guard, when suddenly, a group of 4 more bandits and push the gate open and line up on the road. On of them, a bigger guy wields a sawn-off shotgun while the rest of them only have pistols. I refocus my attention on the guy with the sawn-off and take the shot. Bang. The guy still stands. "Fuck, a miss." The big guy, as well as the sawn off guy walk towards me with their gun at their shoulder. Before I could contemplate my the pityful situation I have found myself in, two, rapid loud bangs shatter the tense situation. The Sarge's unloaded both his barrels into those bandits. One lies dead on the ground, while the big guy stumbles from nearly falling. Another bandit at the gate takes a shot but misses the Sarge, as he yells at the bandits "Learn to shoot, fuckers" and dashes to seek some distance and cover away from the big guy and i rush to reload my rifle again.
+
+The big guy, while surely hurt from suddenly being buck-shotted on such short range, he sure as hell seemed to be as pissed as he is in pain. He rightens himself up and his eyes are staring towards him, who has caused such pain. From beneath his coat, he pulls something small, the size of a big potato. He wraps his first around it and reaches with his other hand towards the top of said potato. "Fuck. Grenade!" the sarge yells while vaulting behind a tree. Finally, with another round inside my barrel, I aim at the big guy, to take out the threat. 
+
+I aim at this head, this guy needs to go away. I steady my stance and breath out but then, i change my mind. I lower the rifle and aim at the Grenade, which he hold in front of his chest, about to be unpinned... 
+
+I breath in...
+I breath out...
+He pulled the pin on the grenade...
+I hold my breath...
+I pull the trigger.
+
+For the blink of an eye, silence.
+Then, a bright flash and a loud "Boom".
+
+The guy disapears into nothing but a cloud of dust.
+I hunker down behind the tree from the debries raining down around.
+
+A many small stones hit the tree and the floor around me, but also some bigger, more meatier , but then, there is a more meaty sound and i see how a torn off finger 
