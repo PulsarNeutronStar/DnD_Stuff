@@ -76,11 +76,6 @@ I pick up vehicle papers and property papers
 
 
 
-
-
-
-
-
-
-
 and another newcomer called Aris, quite small little girl - she seems to be quite all over the place and utterly lost, i think she has no clue what she has gotten herself into it, kinda crazy vibes. Better stay cautious around her.
+
+She's 19 y/o, 4'9" small frame with rag clothes patchworked through unproficent stitching over the years. She's got auburn hair which is tied into a bun with hazel eyes.
