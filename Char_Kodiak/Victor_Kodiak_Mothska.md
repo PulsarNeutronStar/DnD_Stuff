@@ -48,11 +48,12 @@ Total AC `13`
 
 | Day | Amount      | Reason               
 |:---:|---:         |:---                  
-|     | **3200**     | **Total**          
+|     | **5100**     | **Total**          
 | 1   | 100         | Mutant Parts          
 | 1   | 100         | Impressed Sasha by Fighting the Boar with Knifes       
 | 2   | 3000        | Quest Reward for Helping to kill the Bandit Camp
-
+| 2   | -100        | Group Funds
+| 3   | 5000        | Bloodsucker Quest
 
 
 ## My Inventory
