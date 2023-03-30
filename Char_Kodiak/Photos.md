@@ -23,3 +23,6 @@
 8. Day 2: Photo of the Aftermath Bandit Camp - Photo of a dead Bandit with focus on the Patch - it shows a grey shield with a cracked skull.
 9. Day 2: Photo of Zarkk posing above a dead Bandit he seemd to have some quarrel with during the raid.
 
+
+
+Day 3: MF photo of the bloodsucker, SF PHoto of the Pseudo-dogs
