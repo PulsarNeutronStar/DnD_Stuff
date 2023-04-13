@@ -64,3 +64,8 @@ Give Sedrovitch the head.
 
 Suitecase delivered to the 100rads bar in rostock.
 
+Ask towards the Local Officer
+
+North: Army warehouse, conflict with Freedom terrorist
+East: Junkyard and Dark Valley, Bandit home
+West: City, not much known about it. Trouble with some Mercs. 

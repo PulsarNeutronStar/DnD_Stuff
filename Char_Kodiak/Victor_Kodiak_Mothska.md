@@ -11,9 +11,11 @@ Day | XP | History
 1|    0.5 | For Killing the Group of Boars 
 2|    0.5 | For Helping with the Bandit Hideout that terrorized Rookie Village
 
+
 ### Langauges
 `Common (Russian/Ukraine)`, `Georgian`, `Siberian Dialects`
 // I'll likely change my 3. Language according to my background story adjustment
+
 
 ## Base Stats
 | Str | Dex | Con | Int | Wisdom | Car |
@@ -54,6 +56,8 @@ Total AC `13`
 | 2   | 3000        | Quest Reward for Helping to kill the Bandit Camp
 | 2   | -100        | Group Funds
 | 3   | 5000        | Bloodsucker Quest
+| 4   | -1800       | Bought Rifle Sling
+
 
 
 ## My Inventory
