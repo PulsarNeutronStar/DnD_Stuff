@@ -1,5 +1,4 @@
 ## Contact Lenses
-
 ### Image Link
 This lets you display visual information (text,
 pictures, movies, the current time, etc.) in your
@@ -22,6 +21,30 @@ reduces the penalty from flashing lights, like
 from a flash-pak.
 
 ### Vision Magification
+This zoom function digitally magnifies vision
+by up to fifty times, allowing distant targets to be
+seen clearly. Attack Ratings for Medium, Far, and
+Extreme ranges are increased by 2, assuming the
+attack being used has a non-zero Attack Rating in
+those categories.
+
+
+## Glasses
+### Smartlink
+This is the vision accessory side of the smartgun
+system (p. 260). The smartlink receives the range to
+various targets, ammunition level (and type), and
+offers a targeting dot wherever the gun is pointed
+if within the visual field of the user.
+
+### Vision Enhancement
+This zoom function digitally magnifies vision
+by up to fifty times, allowing distant targets to be
+seen clearly. Attack Ratings for Medium, Far, and
+Extreme ranges are increased by 2, assuming the
+attack being used has a non-zero Attack Rating in
+those categories.
+
 ## Ear Buds
 These ergonomic earplugs are hard to spot
 and harder still to differentiate from the standard
@@ -47,21 +70,6 @@ fine discrimination of nuances and can block out
 distracting background noise. This system gives a
 +1 dice pool bonus to all aural Perception tests.
 
-## Glasses
-### Smartlink
-This is the vision accessory side of the smartgun
-system (p. 260). The smartlink receives the range to
-various targets, ammunition level (and type), and
-offers a targeting dot wherever the gun is pointed
-if within the visual field of the user.
-
-### Vision Enhancement
-This zoom function digitally magnifies vision
-by up to fifty times, allowing distant targets to be
-seen clearly. Attack Ratings for Medium, Far, and
-Extreme ranges are increased by 2, assuming the
-attack being used has a non-zero Attack Rating in
-those categories.
 
 ## Laser Microphone
 This sensor bounces a laser against a thin, solid
@@ -161,3 +169,71 @@ a taser. They deal Stun damage and apply the
 Zapped status but don’t carry the punch of the
 regular round.
 
+
+
+## GEAR
+
+### Autopicker
+This lockpick gun is a quick and effective way
+of bypassing mechanical locks. The autopicker lets
+you add +1 as a dice pool modifier to your test
+when picking a mechanical lock.
+
+Lockpick
+
+
+
+
+
+
+
+## Firing Modes
+
+Single Shot: | -1 B | -0 AR | 
+Semi-Automatic: | -2 B | -1 AR | +1 DV
+Burst Fire (Narrow):|  -4 B | -4 AR | +2 DV
+Burst Fire (Wide): | Split your dice pool between 2 targets and treat as SA
+FA: -10 B | - 6 AR | Split attack between any number of targets.
+
+## Ranges
+Close: 0-3
+Near: 4-50
+Medium: 51-250
+Far: 251-500
+Extreme: 501+
+
+# Actions
+## Minor Actions
+### Take Aim (I)
+A character gains a +1 dice pool bonus with the
+use of this action. The action can only be taken once
+per combat round, but if the bonus is not used, it
+carries over to the next combat round, allowing it to
+be combined with actions taken over the course of
+several combat round. If the character takes a player
+turn without taking the Take Aim or Attack actions,
+any carryover bonuses from previous rounds are lost. 
+
+The maximum dice pool bonus from the use of
+this action is equal to the character’s Willpower. 
+
+A character may take aim with a ready firearm, bow,
+or exotic ranged weapon.
+If the character is using image magnification
+or a targeting scope, the Take Aim action must be
+used to line up the shot in order to receive any
+bonus from the item. In this case, the first action of
+Take Aim does not provide any additional bonus
+beyond enabling the function of the modification.
+
+### Dodge (A)
+A character can add their Athletics skill to a single
+Defense test in combat. The roll must happen
+in the same player turn in which the action is used.
+
+## Call a Shot (I)
+Edge allows for some specific called shots without
+dice penalty or with reduced penalty, but you
+can increase the damage by 2 by taking a –4 dice
+pool penalty. This must be combined with the Attack
+action.

@@ -106,3 +106,11 @@ Cavalier Arms Crockett - EBR
 
 The Master "Polished One"
 Up and Coming "Awaken" a while back, but most people didnt hear more
+
+
+## Reward Night 3 - The Bread Circus
+
+20.000 Nuyen.
+5 Karma.
+Reputation + 2
+
