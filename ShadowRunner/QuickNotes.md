@@ -112,7 +112,8 @@ dice pool modifiers.
 
 
 
-## Others
+## Attachments
+
 #### Smartgun System
 This is the firearm or a projectile-weapon side of
 the smartlink system. The system includes a small
@@ -237,3 +238,45 @@ dice penalty or with reduced penalty, but you
 can increase the damage by 2 by taking a –4 dice
 pool penalty. This must be combined with the Attack
 action.
+
+## Toxins
+### Nausea Gas
+• Vector: Inhalation
+• Speed: 3 combat rounds
+• Duration: (6 – Body) minutes, minimum 1
+minute
+• Power: 9
+• Effect: Dazed status, Nauseated status
+Used as a riot control agent, this gas causes
+nausea and a crippling need to vomit. Nausea gas
+becomes inert after two minutes of contact with
+the air.
+
+
+
+
+
+
+Shopping List:
+For the EBR
+1x 500 Y - Silencer 
+2x 500 Y - Smartgun System Internal 
+
++500 + 2550 = +3050 extra costs.
+47967 - 3050 = 44917
+
+2x 2550 Y - OmniDirectional Microphone
++ Audio Enhancement
++ Spatial Recognizer 
++ Select Sound Filter Rtg. 3
+
+
+
+Jonathan Witt: the problems in the city are not restricted to the material plane - one contact reported in a rather panicked manner about some spirits going crazy on the spiritual realm.
+
+Diana Blackmouth: quite busy with everything
+
+
+Buy Afterthought:
+
+5x Mini-Grenade, Gas 50Y Each - Avail 4(I)
